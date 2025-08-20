@@ -16,7 +16,7 @@
 
 ## 🌟 Featured Projects   
 
-📌 [**Growth Tracker Web App**] (<https://github.com/TaemnLee/Growth-Tracker>)
+📌 [**Growth Tracker Web App**] ([<https://github.com/TaemnLee/Growth-Tracker>])
 Full-stack journaling & productivity tracker with reflection editing, AI feedback (OpenAI API), streak visualization, and motivational badges.  
 *Tech:* React, Next.js, TypeScript, MongoDB, OpenAI API  
 
