@@ -28,7 +28,7 @@ LangChain-based advisor that scrapes and organizes Denison course catalog data, 
 Analyzed **100,000+ package records** to uncover delivery trends and bottlenecks, producing actionable charts and forecasting models.  
 *Tech:* Python, Pandas, Matplotlib  
 
-📌 [**IoT Voice Command Interface**](https://github.com/<your-repo-link>)  
+📌 [**IoT Voice Command Interface**](https://github.com/TaemnLee/AI_LED_Frontend)  
 Built dynamic UI and API integration for a voice-controlled IoT interface with Arduino + LEDs hardware integration.  
 *Tech:* React, Next.js, WebSockets, Arduino  
 
