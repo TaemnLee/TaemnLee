@@ -43,7 +43,7 @@ Open-source internship/job search platform built by Denison students. Fixed bugs
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/taemin-lee-9119a31aa/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/taemin-lee-9119a31aa/)  
 - 📧 Email: lee_t1@denison.edu  
 
 ---
