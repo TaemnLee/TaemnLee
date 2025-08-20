@@ -24,7 +24,7 @@ Full-stack journaling & productivity tracker with reflection editing, AI feedbac
 LangChain-based advisor that scrapes and organizes Denison course catalog data, answering queries and planning class schedules with RAG.  
 *Tech:* LangChain, Web Scraping, Prompt Engineering  
 
-📌 [**Mailroom Analytics**](https://github.com/<your-repo-link>) (Private Repo - uses real data)  
+📌 [**Mailroom Analytics**](https://github.com/TaemnLee/Mailroom-Analytics)  
 Analyzed **100,000+ package records** to uncover delivery trends and bottlenecks, producing actionable charts and forecasting models.  
 *Tech:* Python, Pandas, Matplotlib  
 
