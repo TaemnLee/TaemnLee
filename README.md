@@ -16,7 +16,7 @@
 
 ## 🌟 Featured Projects   
 
-📌 [**Growth Tracker Web App**]([https://github.com/<your-repo-link>](https://github.com/TaemnLee/Growth-Tracker))  
+📌 [**Growth Tracker Web App**]([https://github.com/TaemnLee/Growth-Tracker)  
 Full-stack journaling & productivity tracker with reflection editing, AI feedback (OpenAI API), streak visualization, and motivational badges.  
 *Tech:* React, Next.js, TypeScript, MongoDB, OpenAI API  
 
@@ -43,7 +43,7 @@ Open-source internship/job search platform built by Denison students. Fixed bugs
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/taemin-lee-9119a31aa/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/taemin-lee-9119a31aa/)  
 - 📧 Email: lee_t1@denison.edu  
 
 ---
