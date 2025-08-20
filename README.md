@@ -24,7 +24,7 @@ Full-stack journaling & productivity tracker with reflection editing, AI feedbac
 LangChain-based advisor that scrapes and organizes Denison course catalog data, answering queries and planning class schedules with RAG.  
 *Tech:* LangChain, Web Scraping, Prompt Engineering  
 
-📌 [**Mailroom Analytics**](https://github.com/<your-repo-link>) (Private Repo)  
+📌 [**Mailroom Analytics**](https://github.com/<your-repo-link>) (Private Repo - uses real data)  
 Analyzed **100,000+ package records** to uncover delivery trends and bottlenecks, producing actionable charts and forecasting models.  
 *Tech:* Python, Pandas, Matplotlib  
 
@@ -32,7 +32,7 @@ Analyzed **100,000+ package records** to uncover delivery trends and bottlenecks
 Built dynamic UI and API integration for a voice-controlled IoT interface with Arduino + LEDs hardware integration.  
 *Tech:* React, Next.js, WebSockets, Arduino  
 
-📌 [**GamesForLove Contributions**](https://github.com/<your-repo-link>) (Private Repo)   
+📌 [**GamesForLove Contributions**](https://github.com/<your-repo-link>) (Private Repo - internship work)   
 Contributed to multiple Unity mini-games: target-shooting system, randomized spawner, enemy AI, and 2D troop combat system.  
 *Tech:* Unity, C#, GitHub Collaboration  
 
