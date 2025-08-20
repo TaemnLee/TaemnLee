@@ -36,7 +36,7 @@ Built dynamic UI and API integration for a voice-controlled IoT interface with A
 Contributed to multiple Unity mini-games: target-shooting system, randomized spawner, enemy AI, and 2D troop combat system.  
 *Tech:* Unity, C#, GitHub Collaboration  
 
-📌 [**Jobbie (Open Source)**](https://github.com/<your-repo-link>)(Private Repo)   
+📌 [**Jobbie (Open Source)**](https://github.com/<your-repo-link>)(Private Repo - contribution under org)   
 Open-source internship/job search platform built by Denison students. Fixed bugs, added features, and helped maintain CI/CD pipeline.  
 *Tech:* C#, Go, Docker, GitHub Actions  
 
