@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Taemin Lee  
 
 🎓 Computer Science student at **Denison University** (Class of 2027)  
-💻 Passionate about **full-stack development, AI/ML, and game programming**  
+💻 Passionate about **full-stack development, and AI/ML**  
 🚀 Actively seeking **Software Engineering Internship opportunities**  
 
 ---
